@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/env-collector-web-dev/static/css/main.88515613.css",
-    "main.js": "/env-collector-web-dev/static/js/main.96a25893.js",
+    "main.css": "/env-collector-web-dev/static/css/main.96b7f7f4.css",
+    "main.js": "/env-collector-web-dev/static/js/main.6cf7dc0a.js",
     "static/js/787.1995788f.chunk.js": "/env-collector-web-dev/static/js/787.1995788f.chunk.js",
+    "static/media/setup-password-image.png": "/env-collector-web-dev/static/media/setup-password-image.8307871debaa089780f5.png",
     "static/media/logo.png": "/env-collector-web-dev/static/media/logo.ac2224d432eb32532930.png",
     "index.html": "/env-collector-web-dev/index.html",
-    "main.88515613.css.map": "/env-collector-web-dev/static/css/main.88515613.css.map",
-    "main.96a25893.js.map": "/env-collector-web-dev/static/js/main.96a25893.js.map",
+    "main.96b7f7f4.css.map": "/env-collector-web-dev/static/css/main.96b7f7f4.css.map",
+    "main.6cf7dc0a.js.map": "/env-collector-web-dev/static/js/main.6cf7dc0a.js.map",
     "787.1995788f.chunk.js.map": "/env-collector-web-dev/static/js/787.1995788f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.88515613.css",
-    "static/js/main.96a25893.js"
+    "static/css/main.96b7f7f4.css",
+    "static/js/main.6cf7dc0a.js"
   ]
 }
