@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/collector-dev.unikbase.dev/static/css/main.88515613.css",
-    "main.js": "/collector-dev.unikbase.dev/static/js/main.8a395d0c.js",
-    "static/js/787.1995788f.chunk.js": "/collector-dev.unikbase.dev/static/js/787.1995788f.chunk.js",
-    "static/media/logo.png": "/collector-dev.unikbase.dev/static/media/logo.ac2224d432eb32532930.png",
-    "index.html": "/collector-dev.unikbase.dev/index.html",
-    "main.88515613.css.map": "/collector-dev.unikbase.dev/static/css/main.88515613.css.map",
-    "main.8a395d0c.js.map": "/collector-dev.unikbase.dev/static/js/main.8a395d0c.js.map",
-    "787.1995788f.chunk.js.map": "/collector-dev.unikbase.dev/static/js/787.1995788f.chunk.js.map"
+    "main.css": "/static/css/main.88515613.css",
+    "main.js": "/static/js/main.4b1daa90.js",
+    "static/js/787.1995788f.chunk.js": "/static/js/787.1995788f.chunk.js",
+    "static/media/logo.png": "/static/media/logo.ac2224d432eb32532930.png",
+    "index.html": "/index.html",
+    "main.88515613.css.map": "/static/css/main.88515613.css.map",
+    "main.4b1daa90.js.map": "/static/js/main.4b1daa90.js.map",
+    "787.1995788f.chunk.js.map": "/static/js/787.1995788f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88515613.css",
-    "static/js/main.8a395d0c.js"
+    "static/js/main.4b1daa90.js"
   ]
 }
