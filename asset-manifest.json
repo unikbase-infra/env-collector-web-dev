@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "./static/css/main.0690ec24.css",
-    "main.js": "./static/js/main.87a0a253.js",
+    "main.js": "./static/js/main.6e9c7d04.js",
     "static/media/setup-password-image.png": "./static/media/setup-password-image.8307871debaa089780f5.png",
     "static/media/logo.png": "./static/media/logo.ac2224d432eb32532930.png",
     "index.html": "./index.html",
     "main.0690ec24.css.map": "./static/css/main.0690ec24.css.map",
-    "main.87a0a253.js.map": "./static/js/main.87a0a253.js.map"
+    "main.6e9c7d04.js.map": "./static/js/main.6e9c7d04.js.map"
   },
   "entrypoints": [
     "static/css/main.0690ec24.css",
-    "static/js/main.87a0a253.js"
+    "static/js/main.6e9c7d04.js"
   ]
 }
