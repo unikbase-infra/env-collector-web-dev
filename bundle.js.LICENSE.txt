@@ -42,6 +42,12 @@
 /*! sheetjs (C) 2013-present SheetJS -- http://sheetjs.com */
 
 /**
+ * @license
+ * Copyright 2010-2023 Three.js Authors
+ * SPDX-License-Identifier: MIT
+ */
+
+/**
  * @license React
  * react-dom.production.min.js
  *
